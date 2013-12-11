@@ -1,2 +1,3 @@
-r/DailyProgrammer
+DailyProgrammer
 ===============
+reddit.com/r/dailyprogrammer
